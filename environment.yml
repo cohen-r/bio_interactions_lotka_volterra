@@ -1,7 +1,7 @@
 name: binder-env
 channels:
   - conda-forge
-  - biconda
+  - bioconda
 dependencies:
   - python=3.11
   - numpy
